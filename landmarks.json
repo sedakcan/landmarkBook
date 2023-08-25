@@ -1,154 +1,58 @@
 [
   {
-    "name": "Algeria",
-    "capital": "Algiers",
-    "region": "Africa",
-    "currency": "DZD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
-    "language": "Arabic"
+    "name": "Eiffel Tower",
+    "country": "France",
+    "image":"https://raw.githubusercontent.com/sedakcan/landmarkbook/master/eiffeltower.jpeg",
+    "info": "This metal tower with three floors stands in the city centre of Paris. It was built for the 1889 World Fair (Universal Expo) to celebrate the 100th anniversary of the French Revolution./n/n/nThe 324metres/1062ft high Eiffel Tower was constructed by Auguste Eiffel and a team of engineers. If you would like to take the steps up to the tower viewing platform on the second floor, there are 704 steps to climb, but luckily there are also lifts in each of the leg up to the second floor./n/n/nThe tower has been visited by over 250 million people since its opening and in 2016 more than 7 million visitors were welcomed on the tower's top platform!"
   },
   {
-    "name": "Andorra",
-    "capital": "Andorra Vella",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/and.png",
-    "language": "Catalan"
+    "name": "Great Wall",
+    "country": "China",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/china_wall.jpeg",
+    "info": "The Great Wall is one of the seven wonders of the world. It runs in sections over a very long distance across China./n/n/nThe wall is also referred to as ‘Long Wall’ as it is over 21,196 km/13,171 miles long. It was built with stones, bricks and tiles, earth as well as of wooden material. The wall was completed in 1644, but it took more than 2,000 years to build./n/n/nThere are more than 20,000 watchtowers along the wall as it was built to protect the country against invasions from nomads and enemies and to make it easier to collect duty for goods that were transported along the Silk Road./n/n/nToday the wall is the most popular tourist attraction in China with more than 10 million visitors per year. Contrary to popular belief the Great Wall cannot be seen from the moon!"
+    
   },
   {
-    "name": "Antartica",
-    "capital": "Antartica",
-    "region": "Polar",
-    "currency": "AUD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/ata.png",
-    "language": "English"
+    "name": "Kremlin",
+    "country": "Russia",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/kremlin.jpeg",
+    "info": "The Grand Kremlin Palace is part of the Kremlin complex and is located next to the Red Square and St Basil’s Cathedral in Russia’s capital city Moscow./n/n/n The Kremlin is a fortress with enclosing walls and is built along the Moskva River. The name ‘Kremlin’ means ‘fortress within a city’. The more than 500-year-old Kremlin includes the wall with its 20 towers as well as four churches and five palaces within the walls./n/n/nThe Kremlin was once the residence of the Tzars. Today, it is where the Russian president resides. The Cathedral of Vasily the Blessed, usually refered to as Saint Basil’s Cathedral, is easily recognised due to its nine brightly coloured onion domes. "
   },
   {
-    "name": "Azerbaijan",
-    "capital": "Baku",
-    "region": "Asia",
-    "currency": "AZN",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/aze.png",
-    "language": "Azerbaijani"
+    "name": "Leaning Tower of Pisa",
+    "country": "Italy",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/pisa.jpg",
+    "info": "The Leaning Tower of Pisa is one of Italy’s major tourist attractions. The freestanding bell tower of the Pisa Cathedral was built over almost two hundred years and was finished in 1399./n/n/n The original hight of the tower was 60 meters/196ft, but as it is leaning, the lowest side is now less than 56 meters/184ft. The construction already caused many problems as the soil was soft, sandy and unstable. Already during construction, the builders tried to balance the leaning side with more columns on the other side, but the tower still leaned - like many other buildings in the area./n/n/n In 2000, the tower was strengthened by putting stronger soil underneath the tower. You can walk up the 251 stairs to the viewing platform at the top of the tower which is quite an amazing experience. And of course take a picture of you from the lawns next to the tower to 'hold' the tower."
+  },{
+    "name": "Great Pyramid of Giza",
+    "country": "Egypt",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/pyramids.jpg",
+    "info": "The Great Pyramid of Giza near Cairo is one of the Seven Wonders of the Ancient World and the only one of these ancient world wonders which still exists. The pyramids are made of stone and bricks and stand near Cairo which is the capital of Egypt./n/n/nThe Egyptian pyramids were built during a time when there was only manual labour and no machine lifting equipment available. The pyramids were build to house the bodies of the pharaoh who ruled in ancient Egypt. Next to the Giza pyramids there is the Sphinx, the famous monument of a lion body with a pharaoh’s head. The Giza pyramids are around 4,500 years old and are considered among the largest structures ever built."
+  },{
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/sydney_opera_house.jpg",
+    "info": "The Sydney Opera House, built in Australia’s biggest city, is famous for its roof’s architecture resembling shells or sails. The opera house was designed by Jørn Utzon from Denmark and it was built between 1959 and 1973./n/n/n The roof is covered with more than 1 million roof tiles. These were manufactured in Sweden. The opera house has several performance halls and theatre and exhibition spaces./n/n/n More than 40 shows are staged here every week. Every year, more than 8 million visitors visit this Australian landmark! Every evening the roof is lit up in a colourful spectacle. More info on the opera house."
+  },{
+    "name": "Statue of Liberty",
+    "country": "USA",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/statueofliberty.jpeg",
+    "info": "The Statue of Liberty is 92 meters/ 305 ft high and is made of a iron structure with copper skin./n/n/n Lady Liberty, as the statue often is referred to, was designed by Frederic Auguste Bartholdi and the massive iron skeleton of the lady was designed by Alexandre Gustave Eiffel who also designed the Eiffel Tower./n/n/nThe statue was built and completed in France in 1884. The monument was then disassembled into 350 pieces and packed into 214 crates and shipped to New York. The Statue of Liberty was a gift of the people of France to the American people on the American Centennial in 1886. The torch’s flame is covered with 24k gold and the crown has seven rays for the seven continents./n/n/nThe monument stands on Liberty Island in the Hudson River facing New York City. You can climb up the 154 steps from the pedestal to the head of the statue where you can see the fantastic views over the 'Big Apple' as New York is often lovingly called. "
+  },{
+    "name": "Taj Mahal",
+    "country": "India",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/tajmahal.jpg",
+    "info": "The Taj Mahal, which means 'crown of palaces' in the Persian language, stands on the riverbanks of the Yamuna River in Agra in northern India./n/n/nIn 1632 the emperor, Shah Jahan instructed to build a tomb for his favorite wife, Mumtaz Mahal. The Taj Mahal houses the tomb of the wife as well as a mosque and a guesthouse./n/n/nThe Taj Mahal has been built with white marble and the finest material sourced from all over Asia. It is decorated with precious and semi-precious stones. Lines from the Quran are depicted on many walls. The main dome of the Taj Mahal is 35 metres/ 115ft hight and the minarets are each 40 m/ 130ft tall./n/n/nIt is said that more than 20,000 workers built the monument and over 1,000 elephants were used to help with the transport of the heavy material during the construction. The mausoleum attracts more than 8 million visitors every year."
+  },{
+    "name": "Moai",
+    "country": "Easter Island/Chile",
+    "image": "https://raw.githubusercontent.com/sedakcan/landmarkbook/master/moais.jpg",
+    "info": "The Moai are huge statues on the Polynesian island Rapa Nui. The island is commonly called Easter Island and belongs to Chile. The Easter Island is more than 2,200 miles away from Chile in the middle of the Pacific Ocean./n/n/nThe islanders created more than 900 carved stone figures between 1250 and 1500. Most of the stone figures with the oversized heads were built with tuff stone and compressed volcanic ash./n/n/nThe figures weigh on average 14 tons which is as much as two elephants! However, the size of the statues varies, there are some smaller ones and some much bigger ones too. The heaviest stone figure weights 82 tons and is 10 metres /33ft long! They are about 4metres/13ft tall. Most of the islanders believe the huge stone statues represent their ancestors./n/n/nThere are more than 900 monumental statues and 300 ceremonial platforms which are sacred to the Rapa Nui people. "
+  },{
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "image":"https://raw.githubusercontent.com/sedakcan/landmarkbook/master/machupicchu.jpg",
+    "info": "Machu Picchu which means ‘Old Mountain’ in the local Quechua language is a famous site in Peru. It is also referred to as 'The Lost City of the Incas'./n/n/nThe ruins of the Lost City are located in the mountains, at more than 2,400 metres/8,000 feet above sea level. This ruin site has more than 200 different buildings and structures. The ruins were never discovered by the European conquistadors but only became known in 1911 when an American archeologist was led to the site by locals./n/n/nWhile some people believe that Machu Picchu was built as a sacred site, others think it once was the summer retreat of an Inca emperor.  It was built during the 14th century and probably more than 1,000 people lived there. As the site is build on a mountain ridge and thus always would be in danger of sliding down the slope during rainy season, over 600 terraces and a well laid-out drainage system were built around the city./n/n/nThe city is a magical sight and a great example of Inca engineering, as the structures and buildings of the city were also built without using wheels!"
   },
-  {
-    "name": "Belgium",
-    "capital": "Brussels",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/bel.png",
-    "language": "French"
-  },
-  {
-    "name": "Brazil",
-    "capital": "Brasilia",
-    "region": "Americas",
-    "currency": "BRL",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/bra.png",
-    "language": "Portuguese"
-  },
-  {
-    "name": "Cambodia",
-    "capital": "Phnom Penh",
-    "region": "Asia",
-    "currency": "KHR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/khm.png",
-    "language": "Khmer"
-  },
-  {
-    "name": "Canada",
-    "capital": "Ottawa",
-    "region": "Americas",
-    "currency": "CAD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/can.png",
-    "language": "English"
-  },
-  {
-    "name": "Cuba",
-    "capital": "Havana",
-    "region": "Americas",
-    "currency": "CUC",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/cub.png",
-    "language": "Spanish"
-  },
-  {
-    "name": "Denmark",
-    "capital": "Copenhagen",
-    "region": "Europe",
-    "currency": "DKK",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dnk.png",
-    "language": "Danish"
-  },
-  {
-    "name": "Estonia",
-    "capital": "Tallinn",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/est.png",
-    "language": "Estonian"
-  },
-  {
-    "name": "Finland",
-    "capital": "Helsinki",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/fin.png",
-    "language": "Finnish"
-  },
-  {
-    "name": "Greece",
-    "capital": "Athens",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/grc.png",
-    "language": "Greek"
-  },
-  {
-    "name": "Haiti",
-    "capital": "Port-au-Prince",
-    "region": "Americas",
-    "currency": "HTG",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/hti.png",
-    "language": "Haitian"
-  },
-  {
-    "name": "Indonesia",
-    "capital": "Jakarta",
-    "region": "Asia",
-    "currency": "IDR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/idn.png",
-    "language": "Indonesian"
-  },
-  {
-    "name": "Ireland",
-    "capital": "Dublin",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/irl.png",
-    "language": "English"
-  },
-  {
-    "name": "Japan",
-    "capital": "Tokyo",
-    "region": "Asia",
-    "currency": "JPY",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/jpn.png",
-    "language": "Japanese"
-  },
-  {
-    "name": "Russian Federation",
-    "capital": "Moscow",
-    "region": "Europe",
-    "currency": "RUB",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/rus.png",
-    "language": "Russian"
-  },
-  {
-    "name": "Turkey",
-    "capital": "Ankara",
-    "region": "Asia",
-    "currency": "TRY",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
-    "language": "Turkish"
-  }
+  
 ]
